@@ -1,5 +1,5 @@
 {
-  "name": "xylphid/php-id3",
+  "name": "nerd4ever/php-id3",
   "type": "library",
   "description": "ID3 tag reader / writer",
   "keywords": ["id3", "media"],
