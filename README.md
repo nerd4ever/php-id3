@@ -2,6 +2,18 @@
 
 PHP-ID3 is a native php lib for ID3 tags
 
+## About This Project
+
+This project is a fork created with the specific purpose of preserving the immutability of the library's code after its official homologation. The creation of this fork serves as a security measure to ensure that, regardless of future updates or changes in the original library, a stable and approved version remains accessible for reference and use.
+
+It is important to highlight that this fork is a direct replica of the main library at the time of its official approval. Therefore, we do not plan to actively make updates or modifications to this repository. The purpose of this fork is purely conservational, ensuring that users can always access the version of the library that was officially approved and validated for use.
+
+## Recommendation to Users
+
+We strongly encourage all users and developers interested in the library to use the original version, made available by the creator of the library. Opting for the main library ensures access to the most recent updates, security improvements, bug fixes, and new features that are regularly implemented by the original developer.
+
+To use the original library, please redirect to the repository of the library's creator. There, you will find all necessary documentation, installation guides, and support to ensure a successful implementation of the library in your projects.
+
 ## Compatibility
 PHP-ID3 is tested on the following PHP version :
 
